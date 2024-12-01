@@ -372,10 +372,10 @@ footer {
 
 ```
 # OUTPUT:
-c:\Users\admin\softweb\Web capture_1-12-2024_14205_127.0.0.1.jpeg 
-c:\Users\admin\softweb\Web capture_1-12-2024_141946_127.0.0.1.jpeg 
-c:\Users\admin\softweb\Web capture_1-12-2024_14191_127.0.0.1.jpeg 
-c:\Users\admin\softweb\Web capture_1-12-2024_141833_127.0.0.1.jpeg
+![Screenshot (65)](https://github.com/user-attachments/assets/0c9a338c-059b-41a4-a055-a7babb2cfcf8)
+![Screenshot (66)](https://github.com/user-attachments/assets/051839ae-86ae-41f0-af44-4ffa0baea0cd)
+![Screenshot (67)](https://github.com/user-attachments/assets/6be4c504-9d24-40d0-ad70-d73367adbec2)
+![Screenshot (68)](https://github.com/user-attachments/assets/5c3b291e-512b-4916-91b9-c956a9e3485f)
 
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
