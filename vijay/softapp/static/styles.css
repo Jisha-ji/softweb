@@ -1,0 +1,132 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #0e0f0f;
+    padding: 5px;
+    text-align: center;
+    color: white;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.title h1 {
+    font-size: 30px;
+    font-weight: bold;
+    position: relative; top: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.logo{
+    width: 50px;
+    height: auto;
+    position:relative; left:-150px;
+    margin-bottom: -55px;
+    
+}
+.banner { 
+    background-image: url('banner.png');
+    height: 175px;
+    width: 1430px;
+    text-align: center;
+    padding: 50px;
+    color: hsla(0, 10%, 96%, 0.952);
+    font-size: 36px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-seri;
+    border-radius: 20px;
+}
+
+.menu-section {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.menu-image{
+        margin-top: 15px; 
+        width: 50%;
+        max-width: 50px;
+        height: 50px;
+        border-radius: 10px;
+     
+}
+.menu-items{
+    position: relative; left: -250px;
+
+}
+.info-box {
+    background-color: rgb(232, 202, 202);
+    padding: 50px;
+    border-radius: 20px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.admin-image{
+    margin-top: 15px; 
+        width: 50%;
+        max-width: 100px;
+        height: 100px;
+        border-radius: 10px;
+}
+.working-image{
+    margin-top: 15px; 
+        width: 50%;
+        max-width: 100px;
+        height: 111px;
+        border-radius: 10px;
+}
+.menu-section ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.menu-section ul li {
+    margin: 10px 0;
+    font-size: 18px;
+}
+
+.admin-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.admin-box {
+    margin: 10px;
+    text-align: center;
+}
+
+.admin-box img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.contact-section {
+    text-align: center;
+    padding: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #0e0f0e;
+    color: white;
+}
